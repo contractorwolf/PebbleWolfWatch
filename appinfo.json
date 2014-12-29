@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pebble",
+    "longName": "watch1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "watch1",
+    "uuid": "4d2f7278-bd1d-447e-b1a3-05100fd803cd",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
